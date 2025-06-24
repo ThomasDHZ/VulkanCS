@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D61C3699-656B-4273-8583-3B238FB4D3AA}|VulkanCS\\VulkanCS.csproj|c:\\users\\dotha\\documents\\github\\vulkancs\\vulkancs\\vulkancstypedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61C3699-656B-4273-8583-3B238FB4D3AA}|VulkanCS\\VulkanCS.csproj|solutionrelative:vulkancs\\vulkancstypedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D61C3699-656B-4273-8583-3B238FB4D3AA}|VulkanCS\\VulkanCS.csproj|c:\\users\\dotha\\documents\\github\\vulkancs\\vulkancs\\vulkancsstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D61C3699-656B-4273-8583-3B238FB4D3AA}|VulkanCS\\VulkanCS.csproj|solutionrelative:vulkancs\\vulkancsstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "VulkanCSTypeDef.cs",
+              "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSTypeDef.cs",
+              "RelativeDocumentMoniker": "VulkanCS\\VulkanCSTypeDef.cs",
+              "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSTypeDef.cs",
+              "RelativeToolTip": "VulkanCS\\VulkanCSTypeDef.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:02:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VulkanCSStruct.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSStruct.cs",
               "RelativeDocumentMoniker": "VulkanCS\\VulkanCSStruct.cs",
               "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSStruct.cs",
               "RelativeToolTip": "VulkanCS\\VulkanCSStruct.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAswFkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T21:25:00.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VulkanCSFunc.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSFunc.cs",
               "RelativeDocumentMoniker": "VulkanCS\\VulkanCSFunc.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VulkanCSEnums.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSEnums.cs",
               "RelativeDocumentMoniker": "VulkanCS\\VulkanCSEnums.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VulkanCSConst.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\VulkanCS\\VulkanCS\\VulkanCSConst.cs",
               "RelativeDocumentMoniker": "VulkanCS\\VulkanCSConst.cs",
